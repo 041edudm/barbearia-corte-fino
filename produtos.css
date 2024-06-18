@@ -89,12 +89,15 @@ footer{
   font-size: 13px;
   margin-top: 20px;
 }
+
 main{
-  width:940px;
-  margin:0 auto;
+  width: 940px;
+  margin: 0 auto;
 }
 
 .input-padrao{
-  display:block;
+  display: block;
   margin: 0 0 20px;
+  padding: 10px 25px;
+  width: 50%;
 }
